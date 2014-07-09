@@ -11,10 +11,13 @@ A few simple warmup problems to get everybody up to speed.
 
 ## Exercise 2
 1. Random walks in one dimension
-2. Event-based simulation of an EPRB experiment. Simulate quantum behaviour without solving the Schrödinger equation.
+2. Event-based simulation of an EPRB experiment. Simulate quantum behaviour
+   without solving the Schrödinger equation.
 
 ## Exercise 3
-Simulation of the Ising model of ferromagnetism for one and two dimensions using the Metropolis-Monte-Carlo algorithm. The two-dimensional Ising model shows phase transitions.
+Simulation of the Ising model of ferromagnetism for one and two dimensions
+using the Metropolis-Monte-Carlo algorithm. The two-dimensional Ising model
+shows phase transitions.
 
 ## Exercise 4
 Solving the Newtonian equations of motion using different algorithms such as
@@ -26,7 +29,13 @@ Solving the Newtonian equations of motion using different algorithms such as
 Maxwell's laws of electromagnetism in one dimension using Yee's algorithm
 
 ## Exercise 6
-Solving the diffusion equation using a product formula approach and comparing it to random walks.
+Solving the diffusion equation using a product formula approach and comparing
+it to random walks.
 
 ## Exercise 7
-Solver for the one-dimensional Schrödinger equation. Test case: Tunneling of a Gaussian wave packet through a tunnel barrier
+Solver for the one-dimensional Schrödinger equation. Test case: Tunneling of a
+Gaussian wave packet through a tunnel barrier
+
+## Exercise 8
+Solver for Bloch's equations for the behavior of ensembles of non-interacting
+spin-1/2 nuclei in a magnetic field used in NMR/MRI and quantum information
